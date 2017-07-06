@@ -1,5 +1,8 @@
 [PAC](http://pac.itzmx.com/)
 =======
+
+该项目为[itzmx](http://pac.itzmx.com/abc.pac)的备份, 并非本人项目.
+
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
 GFW 封锁了 HTTP/Socks5 代理，HTTP 代理是关键词过滤，Socks5 代理则是封锁协议。不过某些特殊的低端口并没有这么处理，已知的有 21，25。
